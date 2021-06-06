@@ -7,5 +7,6 @@ public class MyTest {
         System.out.println("33");
         System.out.println("44");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
